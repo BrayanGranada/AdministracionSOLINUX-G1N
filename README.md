@@ -5,7 +5,7 @@
 
 Seguimientos
 <ul>
-    <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/1/1.md" target="_blank">Taller I</a></li>
+    <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/1/1.md" target="_blank">Taller I</a></li>{:target="_blank"}
     <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/2/2.md" target="_blank">Taller II</a></li>
     <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/3/3.md" target="_blank">Taller III</a></li>
     <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/4/4.md" target="_blank">Taller IV</a></li>
