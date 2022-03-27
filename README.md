@@ -11,7 +11,7 @@ Seguimientos
     <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/4/4.md" target="_blank">Taller IV</a></li>
 </ul>
 
-[Universidad del Quindio]: {<https://www.uniquindio.edu.co/>}{:target="_blank"}
+[Universidad del Quindio]: <https://www.uniquindio.edu.co/>
 
 
 
