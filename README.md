@@ -5,12 +5,11 @@
 
 Seguimientos
 <ul>
-    <li><a rel="noreferrer"  target="_blank" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/1/1.md">Taller I</a></li>
-    <li><a rel="noreferrer"  target="_blank" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/2/2.md">Taller II</a></li>
-    <li><a rel="noreferrer"  target="_blank" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/3/3.md">Taller III</a></li>
-    <li><a rel="noreferrer"  target="_blank" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/4/4.md">Taller IV</a>
-
-<ul>
+    <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/1/1.md" target="_blank">Taller I</a></li>
+    <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/2/2.md" target="_blank">Taller II</a></li>
+    <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/3/3.md" target="_blank">Taller III</a></li>
+    <li><a rel="noreferrer" href="https://github.com/BrayanGranada/AdministracionSOLINUX-G1N/blob/main/Seguimiento/4/4.md" target="_blank">Taller IV</a></li>
+</ul>
 
 [Universidad del Quindio]: <https://www.uniquindio.edu.co/>
 
