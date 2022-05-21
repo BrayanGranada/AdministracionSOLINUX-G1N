@@ -16,4 +16,4 @@ Seguimientos
 [Parcial 3]
 
 [Universidad del Quindio]: <https://www.uniquindio.edu.co/>
-[Parcial 3]: <https://www.youtube.com/watch?v=Yd2J23bnLHs>
+[Parcial 3]: <https://www.youtube.com/watch?v=Yd2J23bnLHs/>
